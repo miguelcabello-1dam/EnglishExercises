@@ -1,8 +1,8 @@
-package EnglishExercises;
+package EnglishExercisesP2;
 
 import java.util.Scanner;
 
-public class englishexercisesp2 {
+public class Exercise1 {
 
 	public static void main(String[] args) {
 		
